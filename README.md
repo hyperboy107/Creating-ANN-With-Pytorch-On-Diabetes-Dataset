@@ -1,4 +1,4 @@
-### Technologies I used:
+### Technologies used:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FF6F00?style=flat-square&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
